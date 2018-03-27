@@ -1,0 +1,18 @@
+{
+  "name": "ahmedhydster-web",
+  "version": "0.1.0",
+  "author": "Mohd Ahmed <ahmedhydster@gmail.com>",
+  "summary": "Test Module for web service deployment",
+  "license": "Apache-2.0",
+  "source": "https://github.com/ahmedhydster/puppet-web-wellsfargo",
+  "project_page": "https://github.com/ahmedhydster/puppet-web-wellsfargo",
+  "issues_url": "https://github.com/ahmedhydster/puppet-web-wellsfargo",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
