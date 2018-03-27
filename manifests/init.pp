@@ -41,8 +41,12 @@
 # ---------
 #
 # Copyright 2018 Your name here, unless otherwise noted.
-#
+
 class web {
 
+        class { 'web::install': }
+        class { 'web::webdeploy': }
+        class { 'web::service': }
 
 }
+
